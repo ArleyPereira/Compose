@@ -56,7 +56,7 @@ Algumas observações a serem seguidas na utilização do Compose:
 
 ## Estrutura para Telas em Compose
 
-### Login (Nome do Pacote)
+### login (Nome do Pacote)
    - **action:** Ações do usuário em tela
       - LoginAction.kt
    - **parameter:** Parâmetros caso a tela receba
